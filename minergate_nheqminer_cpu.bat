@@ -1,0 +1,1 @@
+nheqminer -l zec.pool.minergate.com:3357 -u drift3003@outlook.com
